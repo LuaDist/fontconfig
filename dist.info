@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "fontconfig"
+version = "2.8.0"
+
+desc = "Fontconfig - font configuration and customization library"
+author = "Keith Packard, Patrick Lam"
+license = "MIT"
+url = "www.freedesktop.org"
+maintainer = "Peter Kapec"
+
+depends = {
+	"freetype >= 2.4"
+}
